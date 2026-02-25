@@ -22,7 +22,7 @@ Translation
    @cristal-node -- Japanese translation
 
 
-#Function
+#Function功能
 
 SR\
  Popula,Watch,Home,Favorites\
