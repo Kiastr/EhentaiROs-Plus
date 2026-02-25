@@ -23,6 +23,7 @@ Translation
 
 
 #Function
+
 SR\
  Popula,Watch,Home,Favorites\
  List View,Waterfall View Switch\
