@@ -1,24 +1,24 @@
 # EhentaiViewerRos-FePlus
-An e-hentai app that can use anime4k SR
+An e-hentai app that can use anime4k SR\
 一个可使用anime4k进行超分辨率的ehentai应用程序
 
 ＃ Thanks感谢
 
-The code and logic of the following projects are used and referenced for development\
+The code and logic of the following projects are used and referenced for development
 
    @Eros-FE（特别感谢）\
    @E-HentaiViewer\
    @Anime4k\
-   @EhViewer\
+   @EhViewer
 
-EhTagTranslation\
+EhTagTranslation
 
-   @EhTagTranslation/Database\
+   @EhTagTranslation/Database
   
-Translation\
+Translation
 
-   @KeepSOBP Korean translation\
-   @pursel, Gigas002 -- Russian translation\
+   @KeepSOBP Korean translation
+   @pursel, Gigas002 -- Russian translation
    @cristal-node -- Japanese translation\
 
 
@@ -43,6 +43,7 @@ Translation\
 
 
  #免责声明
+ 
 不得利用本项目进行任何非法活动。 不得干扰任何公司或个人的正常运营或生活和著作权。 不得传播恶意软件或病毒。 此外，为降低法律风险
 
 🚫禁止在官方平台（如b站）及官方账号区域（如b站微博评论区）宣传本项目
