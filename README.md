@@ -23,6 +23,7 @@ Translation
 
 
 #Function
+SR\
  Popula,Watch,Home,Favorites\
  List View,Waterfall View Switch\
  Gallery information view\
@@ -39,8 +40,9 @@ Translation
  Advanced settings\
  post comments, vote up ，vote down\
  watched and user tag\
- Download\
+ Download
 
+超分辨率\
  热门,关注,主页,收藏\
  自定义分组，组合多种条件，分组独立样式\
  列表视图,瀑布流视图,网格视图等切换\
@@ -61,7 +63,7 @@ Translation
  Mytag设置，编辑关注、隐藏、颜色、权重等。长按Tag快速设置\
  下载，下载原图，归档包下载，直接阅读已下载\
  WebDAV同步历史，快速搜索，阅读进度，分组配置\
- 可屏蔽带二维码的图片。可标记广告图片，记录pHash值，后续屏蔽相似图片\
+ 可屏蔽带二维码的图片。可标记广告图片，记录pHash值，后续屏蔽相似图片
 
 
  #免责声明
