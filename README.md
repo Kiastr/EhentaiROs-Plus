@@ -1,6 +1,6 @@
 # EhentaiReadOs-Plus
 An e-hentai app that can use anime4k SR\
-一个可使用anime4k进行超分辨率的ehentai应用程序
+一个可使用anime4k进行超分辨率的ehentai漫画阅读应用程序
 
 ＃ Thanks感谢
 
