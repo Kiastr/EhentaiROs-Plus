@@ -1,4 +1,4 @@
-# EhentaiViewerRos-FePlus
+# EhentaiReadOs-Plus
 An e-hentai app that can use anime4k SR\
 一个可使用anime4k进行超分辨率的ehentai应用程序
 
