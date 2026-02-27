@@ -78,3 +78,9 @@ SR\
 🚫禁止利用本项目牟利，本项目无任何盈利行为，第三方盈利与本项目无关
 
 代码均来自开源项目或AI
+
+#编译说明
+
+如果需要自行编译的话
+复制 lib/config.dart.sample 为 lib/config/config.dart
+复制 lib/firebase_options_sample.dart 为 lib/firebase_options.dart
