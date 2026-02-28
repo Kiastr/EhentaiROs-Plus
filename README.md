@@ -84,3 +84,6 @@ SR\
 如果需要自行编译的话
 复制 lib/config.dart.sample 为 lib/config/config.dart
 复制 lib/firebase_options_sample.dart 为 lib/firebase_options.dart
+
+由于项目依赖复杂规模庞大，条件限制难以编译，
+如果有大佬想编译可以解压EhentaiMain.zip后编译
